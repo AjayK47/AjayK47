@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Large Language Model Finetuning tasks , Building RAG application and AI Agents**
 
-- 🌱 I’m currently a final year UG student
+- 🌱 Final Year UG Student
 
 - 👯 I’m looking for people to collaborate on **Gen AI Projects**
 
