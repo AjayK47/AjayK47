@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ajay</h1>
 <h3 align="center">Gen AI developer</h3>
 
+<div style="text-align: center;">
+  ![GitHub Repo stars](https://img.shields.io/github/stars/AjayK47?style=plastic&labelColor=hex&color=%20%09%23EE4B2B)
+</div>
+
 - 🔭 I’m currently working on **Large Language Model Finetuning tasks , Building RAG application and AI Agents**
 
 - 🌱 Final Year UG Student
