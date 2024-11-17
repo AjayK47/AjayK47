@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Large Language Model Finetuning tasks , Building RAG application and AI Agents**
 
-- 🌱 AI/ML engineer
+- 🌱 AI/ML engineer at Truviz
 
 - 👯 I’m looking for people to collaborate on **Gen AI Projects**
 
