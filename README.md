@@ -5,9 +5,9 @@
   <img src="https://img.shields.io/github/stars/AjayK47?style=plastic&labelColor=hex&color=%20%09%23EE4B2B" alt="GitHub Repo stars"/>
 </p>
 
-- 🔭 I’m currently working on **Large Language Model Finetuning tasks , Building RAG application and AI Agents**
+- 🔭 I’m currently working on **Buidling Agents for Enterprise, Large Language Model Finetuning tasks , Building RAG application and AI Agents**
 
-- 🌱 AI/ML engineer at Truviz
+- 🌱 AI/ML Engineer at [TrugenAI](https://trugen.ai/)
 
 - 👯 I’m looking for people to collaborate on **Gen AI Projects**
 
