@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajay</h1>
-<h3 align="center">Gen AI developer</h3>
+<h3 align="center">Building Stuff</h3>
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/AjayK47?style=plastic&labelColor=hex&color=%20%09%23EE4B2B" alt="GitHub Repo stars"/>
